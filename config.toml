@@ -1,5 +1,5 @@
 baseurl = "http://angrygopher.com"
-title = "Angry-Gopher"
+title = "AngryGopher"
 theme = "vec"
 languageCode = "en-us"
 paginate = 15
