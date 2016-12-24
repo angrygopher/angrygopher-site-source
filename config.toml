@@ -1,5 +1,5 @@
 baseurl = "http://angrygopher.com"
-title = "Angry Gopher"
+title = "Angry-Gopher"
 theme = "vec"
 languageCode = "en-us"
 paginate = 15
@@ -8,7 +8,7 @@ paginate = 15
 #disqusShortname = "Your Disqus shortname"
 
 # Enable analytics by entering your Google Analytics tracking ID
-#googleAnalytics = "Your Google Analytics tracking code"
+googleAnalytics = "UA-89451106-1"
 
 [params]
   Keywords = "golang, programming"
