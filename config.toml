@@ -18,7 +18,7 @@ googleAnalytics = "UA-89451106-1"
   SelfIntro = "Examples, articles, tips and tricks about Go programming language." 
   #Email = "you@example.com"
   
-  #GithubID = "Your Github ID"
+  GithubID = "angrygopher"
   #TwitterID = "Your Twitter ID"
   #FacebookID = "Your Facebook ID"
   #LinkedInID = "Your LinkedIn ID"
