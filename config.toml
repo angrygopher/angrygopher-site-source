@@ -30,3 +30,8 @@ googleAnalytics = "UA-89451106-1"
     name = "post"
     weight = 0
     url = "/post"
+  [[menu.about]]
+    name = "about"
+    weight = 1
+    url = "/about"
+    
