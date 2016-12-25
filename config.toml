@@ -23,3 +23,10 @@ googleAnalytics = "UA-89451106-1"
   #FacebookID = "Your Facebook ID"
   #LinkedInID = "Your LinkedIn ID"
   #GoogleplusID = "Your Googleplus ID"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "post"
+    weight = 0
+    url = "/post"
