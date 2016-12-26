@@ -2,7 +2,7 @@
 date = "2016-12-25T10:28:07-02:00"
 title = "Merry Christmas and a great 2017"
 slug = ""
-comments = false
+comments = true
 draft = false
 toc = false
 

@@ -3,7 +3,7 @@ toc = false
 date = "2016-12-25T08:45:44-02:00"
 title = "Awesome Go"
 slug = "awesome-go"
-comments = false
+comments = true
 draft = false
 
 +++

@@ -9,6 +9,7 @@ paginate = 15
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-89451106-1"
+disqusShortname = "angrygopher"
 
 [params]
   Keywords = "golang, programming"

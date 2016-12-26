@@ -1,5 +1,5 @@
 +++
-comments = false
+comments = true
 draft = false
 toc = false
 date = "2016-12-26T16:20:02-02:00"

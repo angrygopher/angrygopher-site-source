@@ -2,7 +2,7 @@
 date = "2016-12-25T09:44:13-02:00"
 title = "about"
 slug = ""
-comments = false
+comments = true
 draft = false
 toc = false
 
