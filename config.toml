@@ -31,7 +31,7 @@ disqusShortname = "angrygopher"
     name = "post"
     weight = 0
     url = "/post"
-  [[menu.about]]
+  [[menu.main]]
     name = "about"
     weight = 1
     url = "/about"
