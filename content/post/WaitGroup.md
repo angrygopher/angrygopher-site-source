@@ -52,3 +52,5 @@ func main() {
 
 }
 ```
+
+[Test on Playground](https://play.golang.org/p/MmLhsQmlQ4)
